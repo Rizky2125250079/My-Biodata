@@ -34,7 +34,7 @@
         />
 
     <Button
-        android:id="@+id/btn_logoutn"
+        android:id="@+id/btn_logout"
         style="@style/Widget.MaterialComponents.Button"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
